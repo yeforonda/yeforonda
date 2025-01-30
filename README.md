@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Yennifer Foronda</h1>
+<h1 align="center">👋 ¡Hola! Soy Yennifer</h1>
 
 <div align="center">
   <p>🚀 Ingeniera Industrial | 📊 Analista de Datos en formación</p>
