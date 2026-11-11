@@ -1,9 +1,8 @@
-<h1 align="center">👋 ¡Hola! Soy Yennifer</h1>
+<h1 align="center">¡Hola! Soy Yennifer</h1>
 
 <div align="center">
-  <p>🚀 Ingeniera Industrial | 📊 Analista de Datos en formación</p>
-  <p>🔹 SQL | Python | Power BI | Mejora Continua</p>
-  <p>🎯 Apasionada por convertir datos en decisiones estratégicas</p>
+  <p>🚀 Ingeniera Industrial</p>
+  <p> SQL | Python | Power BI | Mejora Continua</p>
 </div>
 
 ## Introduccion
